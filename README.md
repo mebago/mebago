@@ -34,6 +34,7 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="Flutter">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" alt="VSCode">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Kotlin">
 </p>
 
 ---
