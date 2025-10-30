@@ -50,4 +50,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebago&langs_count=5&layout=compact&theme=dark&hide_border=false)
 
 </div>
+#contact me 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="30">](mailto:mebagezahegn612@gmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="30">](https://instagram.com/meba.g_2809)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" width="30">](https://t.me/extraordinary_123)
+
+
 
