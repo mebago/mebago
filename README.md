@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20GitHub%20✨&width=800&height=150" />
+
+</div>
+
 # 🚀 Welcome to my GitHub i am meba
 
 🎓 **Information Systems Student** • 💻 **mobile app developer** • 🌍 **Ethiopia**  
