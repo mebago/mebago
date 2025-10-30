@@ -39,11 +39,48 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- GitHub Stats -->
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meba Gezahegn Zewdu's GitHub Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #282c34;
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .stats, .languages {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #61dafb;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Meba Gezahegn Zewdu's GitHub Portfolio</h1>
+    
+    <div class="stats">
+        <h2>GitHub Stats</h2>
+        <p>Total Contributions: 372</p>
+        <p>Current Streak: 2 days</p>
+        <p>Longest Streak: 8 days</p>
+    </div>
 
-![Meba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebago&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebago&langs_count=5&layout=compact&theme=dark&hide_border=false)
-
-</div>
+    <div class="languages">
+        <h2>Most Used Languages</h2>
+        <ul>
+            <li>Python: 33.3%</li>
+            <li>C++: 16.67%</li>
+            <li>JavaScript: 50%</li>
+        </ul>
+    </div>
+</body>
+</html>
