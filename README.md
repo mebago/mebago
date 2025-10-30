@@ -1,7 +1,7 @@
-# 🚀 Welcome to my GitHub
+# 🚀 Welcome to my GitHub i am meba
 
 🎓 **Information Systems Student** • 💻 **mobile app developer** • 🌍 **Ethiopia**  
-**passionate with sell mobile and computer** .
+**passionate with bussines,fx and gym** .
 
 <div align="center">
 
