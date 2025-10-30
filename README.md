@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20GitHub%20✨&width=800&height=150" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub+🤖;I+am+called+Meba+⚡" />
 
 </div>
 
