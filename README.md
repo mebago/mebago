@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&pause=1200&color=00E5FF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+my+GitHub+🤖;I+am+called+Meba+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=System+Status%3A+Active;User%3A+Meba;AI+Core%3A+Online;Connection%3A+Secure;Shutting+Down+Terminal...;Goodbye+👋">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=footer" />
+
+<sub>Powered by Cyber-AI ⚡ | Designed by Meba 🧠</sub>
 
 </div>
+
 
 # 🚀 Welcome to my GitHub i am meba
 
