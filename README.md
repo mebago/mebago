@@ -42,11 +42,8 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-![Meba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true)
+![Meba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebago&show_icons=true&count_private=true&theme=dark&hide_border=false&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebago&langs_count=5&layout=compact&theme=dark&hide_border=false)
 
 </div>
-
-
----
