@@ -4,7 +4,9 @@
 
 # 🚀 Welcome to my GitHub i am meba
 
-🎓 **Information Systems Student** • 💻 **mobile app developer** • 🌍 **Ethiopia**  
+🎓 **Information Systems Student at hawassa university** 
+• 💻 **mobile app developer** • 
+  🌍 **Ethiopia**  
 **passionate with bussines,fx and gym** .
 
 <div align="center">
