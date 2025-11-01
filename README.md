@@ -19,8 +19,8 @@
 
 ## 🚀 About Me
 - 💡 Turning ideas into code and bringing concepts to life  
-- 🖥️ Currently learning **python** and **html css and js**, **kotlin** improving **Java** and **C++**  
-- 📚 I am passinated to gym ,business(mobile phone sell) ,crypto and stock indices and metals market 
+- 🖥️ Currently learning **python** and **html css and js**, **flutter** improving **Java** and **C++**  
+- 📚 I am passinated to gym ,business(mobile phone sell) ,crypto and stock, indices and metals market 
 - 🎨 Interested in app development and GFX design 
 
 ---
