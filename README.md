@@ -3,10 +3,8 @@
 </div>
 
 # 🚀 Welcome to my GitHub i am meba
-
 🎓 **Information Systems Student at hawassa university** 
-• 💻 **mobile app developer** 
-• 🌍 **Ethiopia**  
+•🌍 **Ethiopia**  
 
 
 
