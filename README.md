@@ -25,20 +25,16 @@
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="python" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="48" height="48" alt="aws" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="azure" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="excel" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="powerbi" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="tableau" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="jupyter" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="pandas" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,azure&theme=dark" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 
