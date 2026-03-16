@@ -14,14 +14,10 @@
  **"I code better with a cup of coffee nearby ☕"**
 
 ---
-<div align="center">
-### 🚀 About Me
+🚀 **About Me**
 
-💡 **Hi there! I'm Meba Gezahegn** 👋  
-📊 **Data Analyst** passionate about transforming raw data into meaningful insights.  
-💼 Currently working as a **Freelancer on Upwork**, helping clients analyze data and solve real-world problems.  
-🎓 **Information Systems Student** with a strong interest in technology, systems, and data-driven solutions.  
-🌐 Also exploring **Full Stack Web Development**, building modern and responsive web applications.  
-🚀 I enjoy learning new technologies, solving complex problems, and creating solutions that combine **data, systems, and web technology.**
-
----
+* 📊 Data Analyst passionate about turning raw data into meaningful insights and actionable solutions
+* 💼 Currently working as a freelancer on **Upwork**, helping clients analyze data and solve real-world problems
+* 🎓 Information Systems student with a strong interest in technology and data-driven systems
+* 🌐 Exploring **Full Stack Web Development** and building modern, responsive web applications
+* 🚀 Always learning new technologies and creating solutions that combine **data, systems, and web development**
