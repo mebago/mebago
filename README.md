@@ -16,6 +16,7 @@
 ---
 <div align="center">
 ### 🚀 About Me
+---
 * 📊 **Data Analyst** passionate about transforming raw data into meaningful insights.
 * 💼 Currently working as a **Freelancer on Upwork**, helping clients analyze data and solve real-world problems.
 * 🎓 **Information Systems Student** with a strong interest in technology, systems, and data-driven solutions.
