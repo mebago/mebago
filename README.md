@@ -68,6 +68,4 @@
 <a href="mailto:mebagezahegnzewdu@gmail.com">
   <img src="https://img.shields.io/badge/Email-mebagezahegnzewdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://t.me/extraordinary_123">
-  Chat with me on Telegram
-</a>
+
