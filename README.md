@@ -8,9 +8,9 @@
 
 ---
 
-**🎓 Information Systems Student** ||
-**💻 Data Analyst** ||
-**🌍 Ethiopia** || 
+**🎓 Information Systems Student**   |
+**💻 Data Analyst**    |
+**🌍 Ethiopia**     |
  **"I code better with a cup of coffee nearby ☕"**
 
 ---
