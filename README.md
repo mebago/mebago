@@ -15,38 +15,12 @@
 
 ---
 <div align="center">
+### 🚀 About Me
 
-## 👨‍💻 About Me
-
-Hi 👋 I'm **Meba Gezahegn**
-
-🎓 Information Systems Student
-📊 Data Analyst passionate about turning data into insights
-💼 Freelancing on **Upwork** helping clients solve real-world problems
-🌐 Interested in **Full Stack Web Development** and building modern web applications
-
-I enjoy working with **data, technology, and problem-solving**.
-My goal is to build solutions that combine **data analysis, systems thinking, and web development**.
+* 📊 **Data Analyst** passionate about transforming raw data into meaningful insights.
+* 💼 Currently working as a **Freelancer on Upwork**, helping clients analyze data and solve real-world problems.
+* 🎓 **Information Systems Student** with a strong interest in technology, systems, and data-driven solutions.
+* 🌐 Also exploring **Full Stack Web Development**, building modern and responsive web applications.
+* 🚀 I enjoy learning new technologies, solving complex problems, and creating solutions that combine **data, systems, and web technology.**
 
 ---
-
-## 🚀 Skills & Tools
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mysql,git,github,vscode"/>
-
----
-
-## 🌱 Currently Learning
-
-• Advanced Data Analytics
-• Full Stack Web Development
-• Data Visualization
-
----
-
-## 🤝 Let's Connect
-
-💼 Upwork Freelancer
-📧 Open to collaboration and freelance projects
-
-</div>
