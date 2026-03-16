@@ -25,13 +25,18 @@
 
 ### 🛠 Tech Stack
 
+### 🛠 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Dark.svg" width="50" height="50" alt="excel" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" height="50" alt="powerbi" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" height="50" alt="tableau" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="50" height="50" alt="jupyter" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="50" height="50" alt="pandas" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="python" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="mysql" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="48" height="48" alt="aws" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="azure" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="excel" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="powerbi" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="tableau" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="jupyter" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="pandas" />
 </p>
 
 ---
