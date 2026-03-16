@@ -14,3 +14,39 @@
  **"I code better with a cup of coffee nearby ☕"**
 
 ---
+<div align="center">
+
+## 👨‍💻 About Me
+
+Hi 👋 I'm **Meba Gezahegn**
+
+🎓 Information Systems Student
+📊 Data Analyst passionate about turning data into insights
+💼 Freelancing on **Upwork** helping clients solve real-world problems
+🌐 Interested in **Full Stack Web Development** and building modern web applications
+
+I enjoy working with **data, technology, and problem-solving**.
+My goal is to build solutions that combine **data analysis, systems thinking, and web development**.
+
+---
+
+## 🚀 Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mysql,git,github,vscode"/>
+
+---
+
+## 🌱 Currently Learning
+
+• Advanced Data Analytics
+• Full Stack Web Development
+• Data Visualization
+
+---
+
+## 🤝 Let's Connect
+
+💼 Upwork Freelancer
+📧 Open to collaboration and freelance projects
+
+</div>
