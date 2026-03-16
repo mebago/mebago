@@ -1,30 +1,27 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Digital%20Garden&fontSize=35&fontAlign=50&fontAlignY=35&color=0:00FFB3,50:00C6FF,100:8A2BE2&fontColor=ffffff&section=header" />
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Meba%20Gezahegn&fontSize=45&fontAlign=50&fontAlignY=35&animation=fadeIn&color=0:00F5A0,50:00D9F5,100:8A2BE2&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Meba+Gezahegn;A+Passionate+Developer;Building+the+Future+with+Code"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=900&color=00F5A0&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Meba+Gezahegn;Web+Developer;Data+Science+Enthusiast;Welcome+to+My+Portfolio"/>
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  </p>
 
-<br><br>
+  ---
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=meba&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  ### 🚀 About Me
+  
+  * 🔭 I’m currently working on **Exciting Projects**
+  * 📚 I’m currently learning **Advanced System Architecture**
+  * ⚡ Fun fact: **I code better with a cup of coffee nearby**
 
-<br><br>
+  ---
 
-<!-- Tech Stack -->
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mysql,git"/>
-
-<br><br>
-
-<!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meba&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meba&layout=compact&theme=tokyonight"/>
-
-<br><br>
-
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  ### 🛠 Tech Stack
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,python,docker,git,aws" />
+  </p>
 
 </div>
