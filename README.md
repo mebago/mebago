@@ -23,18 +23,12 @@
 * 🚀 Passionate about **learning new technologies**, **problem solving**, and creating solutions that combine **data**, **systems**, and **web development**
   ## 🛠  Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,azure&theme=dark" />
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure,excel,powerbi,tableau,jupyter,pandas&perline=9" />
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-</p>
+---
 
 
