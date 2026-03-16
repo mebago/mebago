@@ -1,39 +1,6 @@
-# 👋 Hi, I'm Meba
-
-💻 Data Analyst | 📊 Excel | 🐍 Python
-
----
-
-## 🚀 About Me
-I am a inforamtion system student 
-
-
-
----
-## 🧰 Skills
-- Excel
-- SQL
-- Python
-- Power BI
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME)
-
----
-
-## 📫 Contact
-- LinkedIn
-- Telegram
-- Email 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There+👋;I'm+Meba+Gezahegn;Welcome+to+My+GitHub+🚀;Data+Analyst+in+Progress+📊" />
+</h1>
 
 
 
