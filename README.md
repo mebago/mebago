@@ -44,3 +44,24 @@
 <img src="https://streak-stats.demolab.com?user=mebago&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+<h2 align="left">🌐 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mebagezahegn612" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/meba_gezahegn612" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mebagezahegnzewdu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/extraordinary_123" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40"/>
+  </a>
+</p>
+
+<hr/>
