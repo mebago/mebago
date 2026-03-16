@@ -65,3 +65,6 @@
 </p>
 
 <hr/>
+<a href="mailto:mebagezahegnzewdu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mebagezahegnzewdu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
