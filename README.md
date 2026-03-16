@@ -6,6 +6,8 @@
 💡 Passionate about Data, Technology, and Problem Solving <br>
 🚀 Learning Excel • SQL • Python • Data Visualization
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meba-gezahegn&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 
