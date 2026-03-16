@@ -26,7 +26,12 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure,excel,powerbi,tableau,jupyter,pandas&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,azure" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel-Dark.svg" width="50" height="50" alt="excel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" height="50" alt="powerbi" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" height="50" alt="tableau" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="50" height="50" alt="jupyter" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="50" height="50" alt="pandas" />
 </p>
 
 ---
